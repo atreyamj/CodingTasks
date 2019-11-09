@@ -4,6 +4,8 @@
 package tasks;
 
 public class App {
+  // TODO : Fix the excludes with jacoco and gradle 6.0
+  
     public String getGreeting() {
         return "Hello world.";
     }
