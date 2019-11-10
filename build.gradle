@@ -74,5 +74,5 @@ jacocoTestCoverageVerification {
 
 jacocoBadgeGenSetting {
     jacocoReportPath  "$buildDir/reports/jacoco/test/jacocoTestReport.xml"
-    readmePath "README.md"
+    readmePath "$projectDir/README.md"
 }
